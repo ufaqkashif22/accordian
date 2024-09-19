@@ -106,7 +106,7 @@ button:hover {
   letter-spacing: 0.1rem;
   font-size: 1.7rem;
 }
-/* 
+
 @media screen and (max-width: 980px) {
   .section-form form {
     flex-direction: column;
@@ -114,13 +114,13 @@ button:hover {
     align-items: center;
   }
 
-  .section-post ol {
+  .section-post ul {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media screen and (max-width: 720px) {
-  .section-post ol {
+  .section-post ul {
     grid-template-columns: repeat(1, 1fr);
   }
-} */
+}
