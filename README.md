@@ -6,4 +6,5 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-<!-- ![1st image acordian](<Screenshot (123).png>)![second image accordian](<Screenshot (124).png>) -->
+
+![alt text](<Screenshot (123).png>)![alt text](<Screenshot (124).png>)
